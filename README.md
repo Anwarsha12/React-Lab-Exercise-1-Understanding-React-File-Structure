@@ -15,8 +15,8 @@ function Student() {
  return (
  <div>
  <h2>Student Details</h2>
- <p>Name: Aravindan T</p>
- <p>Register Number: 2305001003</p>
+ <p>Name: Anwarsha E.M</p>
+ <p>Register Number: 2305001002</p>
  <p>Department: CSE</p>
  </div>
  );

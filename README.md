@@ -99,8 +99,8 @@ x solid #cccccc;
 }
 ```
 ## OUTPUT
-<img width="995" height="344" alt="image" src="https://github.com/user-attachments/assets/8f8a9446-fefe-42d4-a61c-de72a2ff06ef" />
-<img width="1005" height="522" alt="image" src="https://github.com/user-attachments/assets/2583cac9-b6a8-4cd4-9334-cdc85651e800" />
+<img width="911" height="342" alt="Screenshot 2026-11-13 004305" src="https://github.com/user-attachments/assets/84c8c3ae-6d76-4789-809e-e11902bab34f" />
+<img width="689" height="519" alt="Screenshot 2026-11-13 004333" src="https://github.com/user-attachments/assets/152c7bbb-1478-4bf3-afa1-5af0617a50ab" />
 
 ## RESULT
 ### Thus, the Student Information System was successfully created using React components for student, course, and faculty details.
